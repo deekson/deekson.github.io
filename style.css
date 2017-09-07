@@ -27,7 +27,6 @@ body{
 
 .navbar li{
 	float:left;
-
 }
 
 .navbar a{
@@ -54,7 +53,7 @@ body{
 #article{
 
 	background-color: #f3f5eb;
-	opacity: 0.6;
+	opacity: 0.5;
 	color:#551a8b;
 	text-align: center;
 	width: 600px;
@@ -87,7 +86,7 @@ body{
 
 .story li{
 
-	margin: 1em
+	margin: 1.5em
 
 }
 
@@ -110,7 +109,7 @@ body{
 
 button{
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 10px;
 
 }
 
