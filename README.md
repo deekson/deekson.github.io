@@ -12,6 +12,24 @@ You can clone this site and use it for anything you want, but you're not allowed
 
 1. Visit the repository [here](https://github.com/deekson/deekson.github.io)
 2. Click **Clone or Download** and copy the link
-3. In your terminal, type *git clone (https://github.com/deekson/deekson.github.io)*
-...You can also use git pull to achieve the same this. 
+3. In your terminal, type *git clone [link](https://github.com/deekson/deekson.github.io)*. You can also use *git pull* to achieve the same this. 
 4. You can refer to the github guide to learn how to contribute to this project. 
+
+### Hiring
+
+There's an existing table on the site highlighing my skills. You may want to hire me after taking a glance at my skills
+
+| Skills        | Expertise Level 
+| ------------- |:-------------: |
+| Linux         | 75%      	     |
+| HTML	      	| 49%		     |
+| Python		| 30%		     |
+| Tech writing	| 73%		     |
+| C++ (Arduino)	| 60%		     |
+
+### Gallery
+
+A big thank you to [surge.sh](https://surge.sh/) for the initial hosting of this website :heart_eyes: :heart_eyes: :heart_eyes:. 
+
+
+![eyram's image](https://surge.sh/images/logos/svg/surge-logo.svg "Surge")
