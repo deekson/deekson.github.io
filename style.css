@@ -1,0 +1,133 @@
+body{
+	font-family: 'Baloo Tammudu', cursive;
+
+
+
+	background-image: url(images/background.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+	margin: 0;
+}
+
+.navbar ul{
+
+	list-style-type: none;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: #f1e6f9;
+
+}
+
+
+
+.navbar li{
+	float:left;
+
+}
+
+.navbar a{
+	text-align: center;
+	padding: 10px 16px;
+	display: block;
+	text-decoration: none;
+	font-size: 20px;
+
+}
+
+
+.navbar a:hover{
+	background-color: #4CAF50;
+}
+
+
+.navbar a:hover:not(.active){
+
+    background-color: #4CAF50;
+    color: white;
+}
+
+#article{
+
+	background-color: #f3f5eb;
+	opacity: 0.6;
+	color:#551a8b;
+	text-align: center;
+	width: 600px;
+	height: auto;
+	margin: 100px auto;
+	font-size:17px;
+	line-height: 20px;
+	padding: 15px;
+
+}
+
+    .story {
+
+    	background-color: #f3f5eb;
+    	opacity: 0.6;
+    	color:#551a8b;
+    	width: 600px;
+    	height: auto;
+    	margin: 20px auto;
+    	font-size:16px;
+    	line-height: 20px;
+    	padding: 10px;
+    }
+
+    .intro{
+
+	text-align: center;
+	color: #efefef;
+}
+
+.story li{
+
+	margin: 1em
+
+}
+
+#banner{
+
+	color: #ff7354;
+}
+
+#contact {
+	margin-left: 500px;
+
+}
+
+#contact input {
+	width: 400px;
+	height:20px;
+
+	
+}
+
+button{
+	padding: 10px;
+	border-radius: 5px;
+
+}
+
+table{
+
+	border: solid 2px;
+	text-align: center;
+	width: 100%;
+
+}
+
+th,td{
+		height: 50%;
+		border-bottom: 1px solid #ddd;
+}
+
+tr:hover{
+
+	background-color: white;
+}
