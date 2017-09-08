@@ -1,10 +1,10 @@
-# deekson.github.io
+# Eyram's Personal Website
 
 A brief introduction to Eyram and his journey at MEST. 
 
 ### Getting Started
 
-This website is just an assignment meant for us to learn more about git and github. This site contains 3 pages and some media files. 
+This website is just an assignment meant for me to learn more about git and github. This site contains 3 pages and some media files. 
 
 ### Contributing to the site
 
